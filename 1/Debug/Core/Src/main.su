@@ -1,0 +1,9 @@
+../Core/Src/main.c:62:6:vAperoidic1	16	static
+../Core/Src/main.c:71:6:vAperoidic2	16	static
+../Core/Src/main.c:80:6:vPeriodic3	24	static
+../Core/Src/main.c:90:6:vPeriodic4	24	static
+../Core/Src/main.c:106:5:main	24	static
+../Core/Src/main.c:163:6:SystemClock_Config	88	static
+../Core/Src/main.c:209:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:244:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:261:6:Error_Handler	4	static,ignoring_inline_asm
